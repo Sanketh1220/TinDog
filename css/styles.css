@@ -1,0 +1,157 @@
+body {
+  font-family: font-family: "Montserrat";
+}
+
+h1 {
+  font-family: font-family: "Montserrat-Black";
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+h2 {
+  line-height: 1.5;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+#title {
+  background-color: #ff4c6a;
+  font-family: "Ubuntu";
+}
+
+.nav-item {
+  margin: 0 30px;
+  font-size: 20px;
+  font-family: "Ubuntu";
+}
+
+.navbar {
+  padding: 50px 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.container-fluid {
+  padding: 1% 15%;
+}
+
+.iphone-mockup{
+  transform: rotate(.08turn);
+  padding-top: 30px;
+  width: 70%;
+  height: 95%;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+  font-family: "Ubuntu";
+  border-radius: 4px;
+}
+
+.second-section{
+  position:relative;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#features {
+  background-color:rgb(245, 245, 245);
+}
+
+.fa-4x {
+  padding-bottom: 20px;
+  color: #ff4c68;
+}
+
+.fa-4x:hover {
+  color: #ef8172;
+}
+
+.temp {
+  font-family: 'Open Sans-bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.descrip {
+  color: #8f8f8f;
+}
+
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #fff;
+}
+
+.testimonial-image {
+  height: 150px;
+  height: 150px;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+#press {
+  padding-top: 90px;
+}
+
+.press-logo {
+  width:20%;
+  padding-right: 30px;
+}
+
+#pricing {
+  text-align: center;
+  font-family: font-family: "Ubuntu";
+  background-color:rgb(245, 245, 245);
+  padding-top: 3%;
+  padding-bottom: 5%;
+  font-family: 'Baloo Chettan 2', cursive;
+}
+
+.pricing-head {
+  color:#ff4c68;
+}
+
+.btn-pricing {
+  background-color: #ff4c68;
+  color: #fff;
+  border: 0px
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#cta-head {
+  font-size: 3rem;
+  padding-bottom: 50px;
+}
+
+#footer {
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+}
+
+
+.cta-button {
+  background-color: #000000;
+  margin-right: 50px;
+}
